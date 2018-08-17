@@ -16,13 +16,13 @@ img {
 }
 
 @font-face{
-    font-family: "Raleway";
-    src: url("../font/Raleway-Regular.ttf");   
+    font-family: "Nunito";
+    src: url("../font/Nunito-Regular.ttf");   
 }
 
 @font-face{
-    font-family: "Raleway Bold";
-    src: url("../font/Raleway-Bold.ttf");   
+    font-family: "Nunito Bold";
+    src: url("../font/Nunito-Bold.ttf");   
 }
 
 #styleguide{
@@ -32,13 +32,13 @@ img {
 }
 
 #styleguide h1 {
-    font-family: "Raleway";
+    font-family: "Nunito";
     font-size: 3em;
     color: white;
 }
 
 #styleguide h2 {
-    font-family: "Raleway Bold";
+    font-family: "Nunito Bold";
     font-size: 2em;
     color: white;
 }
@@ -47,14 +47,14 @@ img {
 #styleguide h4 {}
 
 #styleguide p {
-    font-family: "Raleway";
+    font-family: "Nunito";
     font-size: 1em;
     color: white;
 }
 
 #styleguide i {
     color: white;
-    font-family: "Raleway";
+    font-family: "Nunito";
     font-style: italic; 
 }
 
@@ -80,7 +80,7 @@ img {
 }
 
 #styleguide nav a {
-    font-family: "Raleway", Helvetica, sans-serif;
+    font-family: "Nunito", Helvetica, sans-serif;
     font-size: 1em;
     color: #FFF;
     padding: 10px 4px;
@@ -126,7 +126,7 @@ img {
 }
 
 #styleguide #landing article h1 { 
-    font-family: "Raleway Bold", Helvetica, sans-serif;
+    font-family: "Nunito Bold", Helvetica, sans-serif;
     padding: 10px 0;
     color: white;
 }
@@ -161,7 +161,7 @@ img {
 }
 
 #styleguide #typography #title {
-    font-family: "Raleway Bold", Helvetica, sans-serif;
+    font-family: "Nunito Bold", Helvetica, sans-serif;
     width: 250px;
     padding-bottom: 20px;
     margin: 0 auto;
@@ -171,8 +171,8 @@ img {
 #styleguide #typography article { padding-top: 15vh; }
 #styleguide #typography h1, #typography h2, #typography p { padding: 50px 0 10px 0; }
 
-#styleguide #typography h1 { font-family: "Raleway Bold", Hevetica, sans-serif; }
-#styleguide #typography h2 { font-family: "Raleway", Hevetica, sans-serif; }
+#styleguide #typography h1 { font-family: "Nunito Bold", Hevetica, sans-serif; }
+#styleguide #typography h2 { font-family: "Nunito", Hevetica, sans-serif; }
 
 #styleguide #typography p { 
     width: 800px;
@@ -180,7 +180,7 @@ img {
 }
 
 #styleguide #typography a i{
-    font-family: "Raleway", Hevetica, sans-serif;
+    font-family: "Nunito", Hevetica, sans-serif;
     color: #FF1493;
     text-decoration: underline;
 }
@@ -192,7 +192,7 @@ img {
 }
 
 #styleguide #colors section {
-    font-family: "Raleway", Helvetica, sans-serif;
+    font-family: "Nunito", Helvetica, sans-serif;
     width: 150px;
     height: 150px;
     margin: 2.25vw;
